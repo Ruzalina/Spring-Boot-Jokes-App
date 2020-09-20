@@ -1,5 +1,6 @@
-package guru.springframework.demo.service;
+package guru.springframework.demo.services;
 
 public interface JokeService {
+
     String getJoke();
 }
